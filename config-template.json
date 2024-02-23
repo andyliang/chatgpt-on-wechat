@@ -8,16 +8,16 @@
   "proxy": "",
   "hot_reload": false,
   "single_chat_prefix": [
-    "bot",
-    "@bot"
+    "lhz",
+    "@lhz"
   ],
-  "single_chat_reply_prefix": "[bot] ",
+  "single_chat_reply_prefix": "[lhz] ",
   "group_chat_prefix": [
-    "@bot"
+    "@lhz"
   ],
   "group_name_white_list": [
-    "ChatGPT测试群",
-    "ChatGPT测试群2"
+    "龙年吉祥",
+    "范家营大讲堂"
   ],
   "image_create_prefix": [
     "画"
@@ -31,6 +31,6 @@
   "temperature": 0.7,
   "subscribe_msg": "感谢您的关注！\n这里是AI智能助手，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
   "use_linkai": false,
-  "linkai_api_key": "",
+  "linkai_api_key": "Link_osUhiGy9YEteNJV7ErVF70ocezHPcUD1j3qRavHyx7",
   "linkai_app_code": ""
 }
